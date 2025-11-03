@@ -1,0 +1,6 @@
+[
+  {"event_id":1,"timestamp":"2025-11-03T08:12:00","tx_hash":"0xabc","privilege_escalation":false,"login_attempts":1,"known_attack":false,"wallet_balance_change":0},
+  {"event_id":2,"timestamp":"2025-11-03T08:18:00","tx_hash":"0xdef","privilege_escalation":true,"login_attempts":7,"known_attack":true,"wallet_balance_change":-5000},
+  {"event_id":3,"timestamp":"2025-11-03T09:01:00","tx_hash":"0xghi","privilege_escalation":false,"login_attempts":2,"known_attack":false,"wallet_balance_change":100},
+  {"event_id":4,"timestamp":"2025-11-03T14:30:00","tx_hash":"0xjkl","privilege_escalation":false,"login_attempts":1,"known_attack":false,"wallet_balance_change":0}
+]
